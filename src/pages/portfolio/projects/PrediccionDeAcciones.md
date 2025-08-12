@@ -5,7 +5,7 @@ pubDate: 2024-12-15
 description: 'Prediccion de Acciones Final para el curso universitario de Tecnoligas en IA.'
 languages: ["astro", "tailwind", "cloudflare", "C#","Maui"]
 image:
-  url: "/images/projects/neonmint.webp"
+  url: "/images/projects/Acciones.webp"
   alt: "Thumbnail of Astro arches."
 --- 
 

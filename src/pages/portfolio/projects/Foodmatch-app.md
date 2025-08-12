@@ -5,7 +5,7 @@ pubDate: 2024-08-20
 description: 'FoodMatchApp Proyecto Final para el curso universitario de programación móvil.'
 languages: ["astro", "tailwind", "cloudflare", "C#","Maui"]
 image:
-  url: "/images/projects/neonmint.webp"
+  url: "/images/projects/imagenFoodMatch.webp"
   alt: "Thumbnail of Astro arches."
 --- 
 
