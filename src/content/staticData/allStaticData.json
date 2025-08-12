@@ -1,13 +1,13 @@
 {
-  "profileImage": "/images/efeeleprofile.webp",
-  "profileAlt": "Photo of Fernando Aldair López Ponce (EFEELE) for the blog",
+  "profileImage": "/images/Aaavatar.webp",
+  "profileAlt": "Photo of Leonardo Camacho Rojas  for the blog",
   "profileLink": "/about-me",
-  "profileTitle": "FrontEnd Developer",
-  "profileName": "Fernando López",
-  "github": "https://github.com/EFEELE/NeonMint",
+  "profileTitle": " Developer",
+  "profileName": "Leonardo",
+  "github": "https://github.com/Leo210800",
   "githubText": "Do you like this blog's design?",
   "portfolioImage": "/images/portfolio.webp",
-  "email": "hello@efeele.dev",
+  "email": "Camachorojas21@gmail.com",
   "linkedin": "https://www.linkedin.com/in/efeele/",
   "instagram": "https://www.instagram.com/efeele.dev/",
   "youtube": "https://www.youtube.com/@efeeledev",
@@ -30,7 +30,7 @@
     "Movies",
     "Board Games"
   ],
-  "pageTitle": "NeonMint by | Fernando Lopez | EFEELE",
+  "pageTitle": "NeonMint by | Leonardo | EFEELE",
   "pageDescription": "Is a modern, minimalist template crafted for developers and digital creatives.",
   "OGImage": {
     "url": "/images/imagedefault.webp",
