@@ -5,7 +5,7 @@ pubDate: 2023-7-15
 description: 'Gestion de veterina proyecto Final para el curso universitario de Programacion POO'
 languages: ["astro", "tailwind", "cloudflare", "C#","Maui"]
 image:
-  url: "/images/projects/neonmint.webp"
+  url: "/images/projects/veterinaria.webp"
   alt: "Thumbnail of Astro arches."
 --- 
 
