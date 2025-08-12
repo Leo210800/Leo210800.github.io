@@ -5,7 +5,7 @@ description: "Web developer, technology enthusiast, and event organizer. From my
 author: "Fernando Lopez"
 image:
   url: "/images/Avatar.webp"
-  alt: "Photo of Fernando Aldair López Ponce (EFEELE) for the blog"
+  alt: "Photo of Leonardo Camacho Rojas  for the blog"
 ---
 
 Soy un apasionado de la tecnología y la programación desde que descubrí mi primer computadora, donde aprendí a explorar y crear con curiosidad y dedicación. Desde entonces, he avanzado constantemente en mis conocimientos y habilidades, explorando desde el desarrollo de software hasta aplicaciones móviles y sistemas inteligentes.
