@@ -1,3 +1,4 @@
+---
 layout:  /src/layouts/ProjectLayout.astro
 title: 'FoodMatch'
 pubDate: 2024-08-20
