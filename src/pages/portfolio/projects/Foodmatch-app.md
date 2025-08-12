@@ -11,7 +11,7 @@ image:
 
 **FoodMatchApp** Proyecto Final para el curso universitario de programación móvil, elaborado en Maui, donde se realiza una aplicación para conocer y compartir recetas con una metodologia practica, entrentenida y innovadora, en donde se busca que el usuario utilice la aplicación para buscar recetas con sus respectivas condiciones implementadas.
 
-Desarrollado en Maui especialmente en el lenguaje c# y utilizando soporte en manejo de datos Linq .
+Desarrollado en Maui especialmente en el lenguaje **c#** y utilizando soporte en manejo de datos **Linq**.
 
 ## 🧩 Features
 
