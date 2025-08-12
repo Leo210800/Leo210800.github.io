@@ -4,7 +4,7 @@ title: "Sobre Leonardo Camacho | Mi camino en Tecnología y Desarrollo 🚀| EFE
 description: "Web developer, technology enthusiast, and event organizer. From my beginnings in development to creating communities and impactful projects, here I share my journey, experiences, and learnings. 🚀☕"
 author: "Fernando Lopez"
 image:
-  url: "/images/Avatar.webp"
+  url: "/images/Aaavatar.webp"
   alt: "Photo of Leonardo Camacho Rojas  for the blog"
 ---
 
